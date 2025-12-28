@@ -1,0 +1,24 @@
+video-based-steganography
+Tkinter GUI tool for hiding and extracting text data within video files.
+
+Features:
+
+Encode: Hide text data within selected video.
+Decode: Extract hidden text from video.
+Displays original and decoded video information (size, width, height).
+Usage:
+
+Run the Python script.
+Click "Encode" to hide text within an video.
+Click "Decode" to extract hidden text from an video.
+Follow on-screen instructions to select video and input text.
+
+Dependencies:
+Python 3.12
+Tkinter
+PIL (Python Imaging Library)
+To Run: py -3.12 c:\Users\jalal\OneDrive\Desktop\vid_stego_app.py
+
+Ensure Python is installed on your system.
+Install required dependencies using pip if not already installed (pip install pillow).
+Run the Python script using VS code
